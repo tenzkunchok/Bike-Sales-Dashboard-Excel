@@ -8,6 +8,9 @@ Key Insights
 - **Age Brackets:** Middle-aged customers are the most likely to purchase bikes.
 - **Commute Distance:** Shorter commutes (0–1 miles) have higher purchase rates.
 - **Demographic Filters:** Marital status, region, and education level can be used to explore specific buyer segments.
-- 
+
+Dashboard Preview
+![Image 8-13-25 at 10 34 PM](https://github.com/user-attachments/assets/d030369a-25f5-46cb-b5dd-eb8e8de81b49)
+
 Tools: Microsoft Excel (Pivot Tables, Pivot Charts, Slicers)
 Skills: Data cleaning, data visualization, dashboard creation, demographic analysis
