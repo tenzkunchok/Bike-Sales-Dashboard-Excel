@@ -10,7 +10,8 @@ Key Insights
 - **Demographic Filters:** Marital status, region, and education level can be used to explore specific buyer segments.
 
 Dashboard Preview
-![Image 8-13-25 at 10 34 PM](https://github.com/user-attachments/assets/d030369a-25f5-46cb-b5dd-eb8e8de81b49)
+![Image 8-13-25 at 10 34 PM](https://github.com/user-attachments/assets/62121397-9115-49c9-a568-f6319cf3d5ef)
+
 
 Tools: Microsoft Excel (Pivot Tables, Pivot Charts, Slicers)
 Skills: Data cleaning, data visualization, dashboard creation, demographic analysis
